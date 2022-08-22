@@ -18,5 +18,3 @@ Add photo:
 Add review:
 <img width="1006" alt="image" src="https://media.github.ccs.neu.edu/user/9360/files/c4f885a4-0b0b-487a-9137-c7112dd05569">
 
-Edit photo and add reviews:
-
