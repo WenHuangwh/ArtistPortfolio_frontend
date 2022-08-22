@@ -1,0 +1,52 @@
+.photoRow {
+    margin-top: 15px;
+}
+
+.photosListCard {
+    width: 18rem;
+    margin-bottom: 5rem;
+}
+
+.smallPoster {
+    user-select: none;
+}
+
+.card-image-overlay {
+    display: flex;
+    margin-top: -2%;
+    margin-left: 82%;
+}
+
+.heart {
+    width: auto;
+    height: 1.6em;
+    display: flex;
+}
+
+.heartFill {
+    fill: #f53e31;
+}
+
+.dontFill {
+    fill: #f53e315d;
+    outline: 1rem;
+}
+
+.heartEmpty {
+    fill: gainsboro;
+    outline: 1rem;
+}
+
+.likeCounts {
+    pointer-events: none;
+    margin-top: -108%;
+    text-align: center;
+    color: rgb(255, 219, 219);
+    font-family: "Gill Sans", sans-serif;
+    font-size: medium;
+    font-variant-numeric: slashed-zero;
+}
+
+.reviewLink {
+    position: relative;
+}
